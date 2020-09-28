@@ -11,6 +11,7 @@
 }
 
 
+
 /*==========Slider Css ========*/
 
 .carousel-item{
@@ -333,7 +334,7 @@
 .footer {
     background: #1d1e22;
     color:#fff5d7 ;
-    height: 400px;
+    height: auto;
     padding:100px 20px;
     position: relative;
 }
@@ -367,6 +368,21 @@
     left: 0px;
     padding-top: 20px;
 }
+
+.footer-links a {
+    color: #fff5d7!important;
+}
+
+.footer-links a:hover {
+    color: white;
+}
+
+.v1 {
+    border-left: 1px solid #fff5d7;
+    height: auto;
+}
+ 
+
 
 /*==========FOOTER CSS Ends ========*/
 
